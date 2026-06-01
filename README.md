@@ -30,7 +30,9 @@ print(soln)
 ```
 
 ## Output:
-<img width="1450" height="897" alt="image" src="https://github.com/user-attachments/assets/e5fc0d35-9ce3-428e-82e4-e326d7206d71" />
+<img width="1286" height="836" alt="Screenshot 2026-06-01 143613" src="https://github.com/user-attachments/assets/cb8cb589-d838-4eea-b40c-d9972fec19ae" />
+
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
